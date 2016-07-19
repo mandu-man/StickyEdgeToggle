@@ -5,4 +5,4 @@ if [ "$var" = "true" ]; then
 else
 	dconf write /org/compiz/profiles/unity/plugins/unityshell/launcher-capture-mouse true
 fi
-notify-send "Mouse sticky edges toggled." -t 20
+notify-send "Mouse sticky edges toggled."
