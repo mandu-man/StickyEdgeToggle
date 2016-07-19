@@ -7,6 +7,6 @@ Sticky edges can be useful if you're working on just a single monitor, so the mo
 ###Usage:
 
 Make it executable:
-'chmod +x toggle_sticky.sh'
+`chmod +x toggle_sticky.sh`
 Execute
-'./toggle_sticky.sh'
+`./toggle_sticky.sh`
